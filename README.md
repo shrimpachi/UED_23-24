@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! 
 
 You find yourself at the front page of the Utrecht Experiment Design course documentation, edition 2023. 
 
